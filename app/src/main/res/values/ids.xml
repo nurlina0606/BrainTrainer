@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_settings" type="id" />
+    <item name="resultTextView" type="id" />
+    <item name="playAgainButton" type="id" />
+    <item name="gameRelativelayout" type="id" />
+</resources>
